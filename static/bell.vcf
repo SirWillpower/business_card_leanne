@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Leanne Bell
+N:Bell;Leanne;;;
+EMAIL;TYPE=WORK,INTERNET:leanne.bell@blood.ca
+TEL;TYPE=CELL:+16138588446
+ADR;TYPE=WORK:;;Ottawa;Ontario;;Canada
+TITLE:Brand Manager, MBA
+ORG:Canadian Blood Services
+URL:https://leannebell.ca
+PHOTO;VALUE=URI:https://leannebell.ca/static/leanne_portrait.jpg
+END:VCARD
